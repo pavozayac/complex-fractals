@@ -1,0 +1,12 @@
+[package]
+name = "mandel"
+version = "0.1.0"
+authors = ["Paweł Z <pavlzayac@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+image = "^0.23.10"
+num-complex = "^0.3.0"
